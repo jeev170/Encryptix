@@ -30,13 +30,11 @@ An intelligent agent that plays Tic-Tac-Toe against human players, implementing 
 **Key Features:**
 - Minimax algorithm implementation for optimal move selection
 - Strategic decision-making based on game state analysis
-- Difficulty levels (easy, medium, unbeatable)
 - Interactive user interface for gameplay
 
 **Technologies Used:**
 - Python
 - Game theory algorithms
-- Decision trees
 
 ---
 
