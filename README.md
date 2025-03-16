@@ -7,7 +7,7 @@ This repository contains my completed projects for the Encryptix Artificial Inte
 
 ### **1. Rule-Based Chatbot (Task 1)**
 
-A conversational agent that responds to user inputs based on predefined rules and pattern matching. This implementation demonstrates fundamental natural language processing concepts and conversation flow management.
+A conversational agent *Jeevbot that* responds to user inputs based on predefined rules and pattern matching. This implementation demonstrates fundamental natural language processing concepts and conversation flow management.
 
 **Key Features:**
 - Pattern recognition for user queries
