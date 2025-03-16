@@ -1,7 +1,6 @@
 # Encryptix AI Internship Projects
 
-This repository contains my completed projects for the Encryptix Artificial Intelligence internship program. I have successfully implemented three AI applications demonstrating various machine learning and artificial intelligence concepts.
-
+This repository contains my completed projects for the Encryptix Artificial Intelligence internship program. I have successfully implemented three AI applications.
 ---
 
 ## Projects Overview
